@@ -1,0 +1,6 @@
+Notes
+
+- remove the nav bar and put a list of icons underneath the main header (black is too heavy)
+- make simple about and contact pages
+- main main image fluid container (no additional scroll)
+- change fonts: whimiscal headers and light sans-serif fonts for text
