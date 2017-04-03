@@ -73,14 +73,6 @@ a:hover {
   margin: 0;
 }
 
-#about .textbox h2 {
-  font-size: 3vw;
-}
-
-#about .textbox p {
-  font-size: 1vw;
-}
-
 /* Gallery */
 
 #gallery .row {
